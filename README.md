@@ -8,10 +8,16 @@ With photos of eyes as input, the goal of this project is to use transfer learni
 
 The dataset can be obtained at (https://www.kaggle.com/c/diabetic-retinopathy-detection/data)
 
-Files
+## Files
 
 data_loader.py: Custom data loader in pytorch
+
 Sampler.py: Sampler to handle imbalanced classes
+
 Preprocessing.py: The entire preprocessing pipeline
+
 Testing: Notebook to obtain final results
-models.py: Define the neural network architectures
+
+Project1-Diab_Ret: The main notebook
+
+Note - I started this project two weeks ago and I'm still working on it

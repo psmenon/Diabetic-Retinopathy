@@ -16,8 +16,8 @@ Sampler.py: Sampler to handle imbalanced classes
 
 Preprocessing.py: The entire preprocessing pipeline
 
-Testing: Notebook to obtain final results
+Testing.ipynb: Notebook to obtain final results
 
-Project1-Diab_Ret: The main notebook
+Project1-Diab_Ret.ipynb: The main notebook
 
 Note - I started this project two weeks ago and I'm still working on it

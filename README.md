@@ -20,4 +20,4 @@ Testing.ipynb: Notebook to obtain final results
 
 Project1-Diab_Ret.ipynb: The main notebook
 
-Note - I started this project two weeks ago and I'm still working on it
+Note - I started this project three weeks ago and I'm still working on it. Currently I'm rank #65 out of 661 for this particular competition on kaggle

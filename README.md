@@ -18,6 +18,6 @@ Preprocessing.py: The entire preprocessing pipeline
 
 Testing.ipynb: Notebook to obtain final results
 
-Project1-Diab_Ret.ipynb: The main notebook
+Project1-Diabetic_Ret.ipynb: The main notebook
 
 
